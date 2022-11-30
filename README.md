@@ -17,6 +17,7 @@ Projeto desenvolvido em monitoria para Code Splitting, aproveitando para exempli
 
 6. Instalação react-router-dom e criação das rotas
 
+<hr>
 
 #### Para baixar:
 realize a opção *Download ZIP* ou clone o repositório (`git clone https://github.com/VanessaVargas/reactjs-recode2022.git`)
