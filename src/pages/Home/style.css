@@ -1,0 +1,19 @@
+/* Página Home */
+#myCarousel {
+    margin: 30px 0;
+  }
+  
+  .carousel-item img {
+    max-width: 90vw;
+  }
+  
+  .heading {
+    margin: 40px 0;
+    font-family: "Source Code Pro", monospace;
+  }
+  
+  .heading img {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+  }

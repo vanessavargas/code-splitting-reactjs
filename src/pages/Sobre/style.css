@@ -1,0 +1,9 @@
+/* Página Sobre */
+.image-sobre {
+    width: 200px;
+    height: 250px;
+  }
+
+  .position-sticky {
+    top: 2rem;
+  }
