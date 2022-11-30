@@ -1,4 +1,4 @@
-# Projeto de monitoria - React com Redux
+# Projeto de monitoria - React JS
 
 Projeto desenvolvido em monitoria para Code Splitting, aproveitando para exemplificar como passar um projeto em HTML para o React JS. Repositório criado para fins de estudos durante o programa Recode Pro, em Setembro de 2022.
 
