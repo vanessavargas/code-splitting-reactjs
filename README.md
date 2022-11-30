@@ -7,7 +7,9 @@ Projeto desenvolvido em monitoria para Code Splitting, aproveitando para exempli
 
 2. Limpar o projeto e inserir o Bootstrap.
 
-2. Criar as pastas assets (onde irãos os os recursos externos que nossas páginas podem precisar, como imagens, folhas de estilo e JavaScripts), components, pages.
+3. Criar as pastas assets (onde irãos os os recursos externos que nossas páginas podem precisar, como imagens, folhas de estilo e JavaScripts), components, pages.
+
+4. Começando a componentização
 
 
 #### Para baixar:
